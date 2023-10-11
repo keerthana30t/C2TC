@@ -2,7 +2,7 @@
 public class DecisionMaking {
 
 	public static void main(String[] args) {
-int x = 8, y = 7;
+		int x = 8, y = 7;
 		
         if(x >= y)
         {

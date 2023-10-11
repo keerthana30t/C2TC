@@ -33,7 +33,7 @@ public class Encapsulation {
 		encap.setidnum("1234ab");
 	
 	System.out.println("Name:"+encap.getName() +"Age:"+encap.getAge());
-		// TODO Auto-generated method stub
+		
 
 	}
 

@@ -5,8 +5,7 @@ public class ForLoop {
 		int i;
 		for(i=0;i<=10;i++)
 			System.out.println("value of i:"+i);
-		// TODO Auto-generated method stub
-
+		
 	}
 
 }

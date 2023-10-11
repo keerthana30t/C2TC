@@ -7,7 +7,7 @@ public class ForeachLoop {
 		{
 			System.out.println(i);
 		}
-		// TODO Auto-generated method stub
+		
 
 	}
 

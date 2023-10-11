@@ -6,8 +6,7 @@ public class ArthimeticOperator {
 	    System.out.println(x+y);
 		System.out.println(--x);
 		System.out.println(++y);
-		// TODO Auto-generated method stub
-
+		
 	}
 
 }

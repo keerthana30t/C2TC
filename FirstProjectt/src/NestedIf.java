@@ -17,7 +17,7 @@ public class NestedIf {
 			else
 				System.out.println(b);
 		}
-		// TODO Auto-generated method stub
+		
 
 	}
 

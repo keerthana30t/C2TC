@@ -10,8 +10,7 @@ public class AssignmentOperator {
 		//x %= 5;   // x = x % 5
 		System.out.println(x);
 
-		// TODO Auto-generated method stub
-
+		
 	}
 
 }
